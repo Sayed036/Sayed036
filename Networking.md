@@ -44,3 +44,4 @@ Hi everyone, My name is Sayed Hossain Ansari. I'm From Kolkata. Ambitious B.Tech
 ### - Here is sample picture : -
 
 
+<img align="middle" width="" height="" src="./part 1.jpg">
